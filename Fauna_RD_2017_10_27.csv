@@ -1,0 +1,597 @@
+reino,nombre científico,Nombe Completo,vernacular_name,Estatus_RD
+Animalia,Argiope argentata,Argiope argentata,Araa,NO DEFINIDO                   
+Animalia,Cyprinus carpio,Cyprinus carpio,"Pez Bigote, o Bocito",NO DEFINIDO                   
+Animalia,Clarias batrachus,Clarias batrachus,"Pez Gato, Pez Diablo",NO DEFINIDO                   
+Animalia,Hypostomus plecostomus,Hypostomus plecostomus,Pez Diablo o Pleco o Limpia Fondo,INVASORA                      
+Animalia,Leptodactylus albilabris,Leptodactylus albilabris,Rana de la zanja de Puerto Rico,INTRODUCIDA (I)               
+Animalia,Caretta caretta,Caretta caretta,Caguamo,MIGRATORIA (M)                
+Animalia,Chelonia mydas,Chelonia mydas,Tortuga verde,MIGRATORIA (M)                
+Animalia,Eretmochelys imbricata,Eretmochelys imbricata,Carey,MIGRATORIA (M)                
+Animalia,Dermochelys coriacea,Dermochelys coriacea,Tinglar,MIGRATORIA (M)                
+Animalia,Anolis cristatellus,Anolis cristatellus,Anolis crestado de Puerto Rico,INTRODUCIDA (I)               
+Animalia,Anolis cybotes,Anolis cybotes,Anolis robusto de la Hispaniola,ENDEMICA (E)                  
+Animalia,Anolis distichus,Anolis distichus,Anolis gracil de la Hispaniola,NATIVA (N)                    
+Animalia,Anolis longiceps,Anolis longiceps,Anolis de Navassa,ENDEMICA (E)                  
+Animalia,Anolis porcatus,Anolis porcatus,Anolis verde Cubano,INTRODUCIDA (I)               
+Animalia,Cyclura cornuta,Cyclura cornuta,Iguana rinoceronte,ENDEMICA (E)                  
+Animalia,Leiocephalus eremitus,Leiocephalus eremitus,Leiocefalo de Navassa,ENDEMICA (E)                  
+Animalia,Leiocephalus schreibersii,Leiocephalus schreibersii,Leiocefalo khaki de la Hispaniola,ENDEMICA (E)                  
+Animalia,Gonatodes albogularis,Gonatodes albogularis,Gecko con garras Neotropical,INTRODUCIDA (I)               
+Animalia,Hemidactylus frenatus,Hemidactylus frenatus,Gecko comn casero,INTRODUCIDA (I)               
+Animalia,Hemidactylus mabouia,Hemidactylus mabouia,Gecko casero Tropical,INTRODUCIDA (I)               
+Animalia,Sphaerodactylus becki,Sphaerodactylus becki,Esferodactilo de Navassa,ENDEMICA (E)                  
+Animalia,Sphaerodactylus elegans,Sphaerodactylus elegans,Esferodactilo cenizo,ENDEMICA (E)                  
+Animalia,Crocodylus acutus,Crocodylus acutus,Cocodrilo americano,NATIVA (N)                    
+Animalia,Podilymbus podiceps,Podilymbus podiceps,Zaramagulln,RESIDENTE PERMANENTE (RP)     
+Animalia,Tachybaptus dominicus,Tachybaptus dominicus,Tigua,RESIDENTE PERMANENTE (RP)     
+Animalia,Puffinus gravis,Puffinus gravis,Pardela capirotada,PASAJERA(P)                   
+Animalia,Puffinus puffinus,Puffinus puffinus,Pardela pichoneta,PASAJERA(P)                   
+Animalia,Puffinus lherminieri,Puffinus lherminieri,Diablotin,PASAJERA(P)                   
+Animalia,Pterodroma hasitata,Pterodroma hasitata,Diablotin ,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Oceanodroma leucorhoa,Oceanodroma leucorhoa,Diablotin,PASAJERA(P)                   
+Animalia,Oceanites oceanicus,Oceanites oceanicus,Diablotin,PASAJERA(P)                   
+Animalia,Phaethon aethereus,Phaethon aethereus,Rabijunco,PASAJERA(P)                   
+Animalia,Phaethon lepturus,Phaethon lepturus,Rabijunco,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Pelecanus occidentalis,Pelecanus occidentalis,"Alcatraz, Pelicano",RESIDENTE PERMANENTE (RP)     
+Animalia,Sula dactylatra,Sula dactylatra,Bub de cara azul,PASAJERA(P)                   
+Animalia,Sula leucogaster,Sula leucogaster,Bub,RESIDENTE PERMANENTE (RP)     
+Animalia,Sula sula,Sula sula,Bub de patas rojas,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Phalacrocorax auritus,Phalacrocorax auritus,Corua,PASAJERA(P)                   
+Animalia,Anhinga anhinga,Anhinga anhinga,Corua real,PASAJERA(P)                   
+Animalia,Fregata magnificens,Fregata magnificens,Tijereta,RESIDENTE PERMANENTE (RP)     
+Animalia,Ardea herodias,Ardea herodias,Garzn cenizo,NO DEFINIDO                   
+Animalia,Butorides virescens,Butorides virescens,"Cra-cr, Martinete",RESIDENTE PERMANENTE (RP)     
+Animalia,Bubulcus ibis,Bubulcus ibis,Garza ganadera,COLONIZADORA (C)              
+Animalia,Egretta thula,Egretta thula,Garza de rizos,RESIDENTE PERMANENTE (RP)     
+Animalia,Egretta garzetta,Egretta garzetta,Garza,MIGRATORIA (M)                
+Animalia,Egretta rufescens,Egretta rufescens,Garza rojiza,RESIDENTE PERMANENTE (RP)     
+Animalia,Egretta tricolor,Egretta tricolor,Garza.pechiblanco o tricolor,RESIDENTE PERMANENTE (RP)     
+Animalia,Egretta caerulea,Egretta caerulea,Garza azul,RESIDENTE PERMANENTE (RP)     
+Animalia,Nycticorax nycticorax,Nycticorax nycticorax,Rey congo,RESIDENTE PERMANENTE (RP)     
+Animalia,Nyctanassa violacea,Nyctanassa violacea,"Rey congo, Yaboa",NO DEFINIDO                   
+Animalia,Ixobrychus exilis,Ixobrychus exilis,Martinetico,RESIDENTE PERMANENTE (RP)     
+Animalia,Botaurus lentiginosus,Botaurus lentiginosus,Guanaba Rojo,PASAJERA(P)                   
+Animalia,Mycteria americana,Mycteria americana," Coco,Faisn ",EXTINTA (EX)                  
+Animalia,Plegadis falcinellus,Plegadis falcinellus,Coco prieto ,RESIDENTE PERMANENTE (RP)     
+Animalia,Eudocimus albus,Eudocimus albus,Coco blanco,RESIDENTE PERMANENTE (RP)     
+Animalia,Platalea ajaja,Platalea ajaja,Cuchareta,RESIDENTE PERMANENTE (RP)     
+Animalia,Phoenicopterus ruber,Phoenicopterus ruber,Flamenco,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Branta canadensis,Branta canadensis,Ganzo de Cnada,PASAJERA(P)                   
+Animalia,Dendrocygna autumnalis,Dendrocygna autumnalis,Yaguasa de pico rojo,PASAJERA(P)                   
+Animalia,Dendrocygna bicolor,Dendrocygna bicolor,Yaguasin,RESIDENTE PERMANENTE (RP)     
+Animalia,Dendrocygna arborea,Dendrocygna arborea,Yaguasa,RESIDENTE PERMANENTE (RP)     
+Animalia,Dendrocygna viduata,Dendrocygna viduata,Yaguasa,PASAJERA(P)                   
+Animalia,Anas platyrhynchos,Anas platyrhynchos,Pato ingls,MIGRATORIA (M)                
+Animalia,Anas strepera,Anas strepera,nade Friso,MIGRATORIA (M)                
+Animalia,Anas acuta,Anas acuta,Pato pescuecilargo,MIGRATORIA (M)                
+Animalia,Anas bahamensis,Anas bahamensis,Pato de la orilla,RESIDENTE PERMANENTE (RP)     
+Animalia,Anas crecca,Anas crecca,Pato serrano,MIGRATORIA (M)                
+Animalia,Anas discors,Anas discors,Pato de la Florida,MIGRATORIA (M)                
+Animalia,Anas cyanoptera,Anas cyanoptera,Pato colorado,MIGRATORIA (M)                
+Animalia,Anas penelope,Anas penelope,nade Silbn,MIGRATORIA (M)                
+Animalia,Anas americana,Anas americana,Pato cabecilargo,MIGRATORIA (M)                
+Animalia,Anas clypeata,Anas clypeata,Pato cuchareta,MIGRATORIA (M)                
+Animalia,Aix sponsa,Aix sponsa,Huyuyo,MIGRATORIA (M)                
+Animalia,Aythya americana,Aythya americana,Pato cabeza roja,MIGRATORIA (M)                
+Animalia,Aythya collaris,Aythya collaris,Pato negro,MIGRATORIA (M)                
+Animalia,Aythya valisineria,Aythya valisineria,Pato de lomo blanco,MIGRATORIA (M)                
+Animalia,Aythya affinis,Aythya affinis,Pato turco,MIGRATORIA (M)                
+Animalia,Oxyura jamaicensis,Oxyura jamaicensis,Pato espinoso,RESIDENTE PERMANENTE (RP)     
+Animalia,Lophodytes cucullatus,Lophodytes cucullatus,Pato de Cresta,MIGRATORIA (M)                
+Animalia,Mergus serrator,Mergus serrator,Pato frente roja,MIGRATORIA (M)                
+Animalia,Cathartes aura,Cathartes aura,"Aura tiosa,Maura",INTRODUCIDA (I)               
+Animalia,Elanoides forficatus,Elanoides forficatus,Gaviln tijereta,MIGRATORIA (M)                
+Animalia,Accipiter striatus,Accipiter striatus,Guaraguaito de sierra,RESIDENTE PERMANENTE (RP)     
+Animalia,Buteo jamaicensis,Buteo jamaicensis,Guaraguao,RESIDENTE PERMANENTE (RP)     
+Animalia,Buteo platypterus,Buteo platypterus,Gaviln bobo,PASAJERA(P)                   
+Animalia,Buteo swainsoni,Buteo swainsoni,Gaviln de Swainsoni,ENDEMICA (E)                  
+Animalia,Buteo ridgwayi,Buteo ridgwayi,Gaviln de la Hispaniola,ENDEMICA (E)                  
+Animalia,Circus cyaneus,Circus cyaneus,Gaviln sabanero,MIGRATORIA (M)                
+Animalia,Pandion haliaetus,Pandion haliaetus,Guincho,MIGRATORIA (M)                
+Animalia,Falco peregrinus,Falco peregrinus,Halcn de patos,MIGRATORIA (M)                
+Animalia,Falco columbarius,Falco columbarius,"Halcn, Halconcito",MIGRATORIA (M)                
+Animalia,Falco sparverius,Falco sparverius,"Cuyaya, Cerncalo",RESIDENTE PERMANENTE (RP)     
+Animalia,Colinus virginianus,Colinus virginianus,Codorniz,INTRODUCIDA (I)               
+Animalia,Phasianus colchicus,Phasianus colchicus,Faisn,INTRODUCIDA (I)               
+Animalia,Numida meleagris,Numida meleagris,Guinea,INTRODUCIDA (I)               
+Animalia,Aramus guarauna,Aramus guarauna,Carrao,RESIDENTE PERMANENTE (RP)     
+Animalia,Rallus longirostris,Rallus longirostris,Pollo de manglar,RESIDENTE PERMANENTE (RP)     
+Animalia,Porzana carolina,Porzana carolina,Gallito,MIGRATORIA (M)                
+Animalia,Porzana flaviventer,Porzana flaviventer,Guineita,RESIDENTE PERMANENTE (RP)     
+Animalia,Laterallus jamaicensis,Laterallus jamaicensis,Gallito negro,NO DEFINIDO                   
+Animalia,Gallinula chloropus,Gallinula chloropus,Gallareta pico rojo,RESIDENTE PERMANENTE (RP)     
+Animalia,Fulica americana,Fulica americana,Gallareta pico blanco,NO DEFINIDO                   
+Animalia,Fulica caribaea,Fulica caribaea,Gallareta pico blanco,RESIDENTE PERMANENTE (RP)     
+Animalia,Pardirallus maculatus,Pardirallus maculatus,Pollo manchado,RESIDENTE PERMANENTE (RP)     
+Animalia,Jacana spinosa,Jacana spinosa,Gallito de agua,RESIDENTE PERMANENTE (RP)     
+Animalia,Haematopus palliatus,Haematopus palliatus,Blue-wind Teal,RESIDENTE PERMANENTE (RP)     
+Animalia,Charadrius semipalmatus,Charadrius semipalmatus,Playerito,MIGRATORIA (M)                
+Animalia,Charadrius melodus,Charadrius melodus,Playerito,MIGRATORIA (M)                
+Animalia,Charadrius wilsonia,Charadrius wilsonia,"Playerito, Cabezn",RESIDENTE PERMANENTE (RP)     
+Animalia,Charadrius vociferus,Charadrius vociferus,Tito,NO DEFINIDO                   
+Animalia,Pluvialis dominica,Pluvialis dominica,Playero ,PASAJERA(P)                   
+Animalia,Pluvialis squatarola,Pluvialis squatarola,Playero,MIGRATORIA (M)                
+Animalia,Arenaria interpres,Arenaria interpres,Playero turco,MIGRATORIA (M)                
+Animalia,Numenius phaeopus,Numenius phaeopus,Zarapito trinador,MIGRATORIA (M)                
+Animalia,Bartramia longicauda,Bartramia longicauda,Playero,MIGRATORIA (M)                
+Animalia,Actitis macularia,Actitis macularia,Playerito manchado,MIGRATORIA (M)                
+Animalia,Tringa solitaria,Tringa solitaria,Playero solitario,MIGRATORIA (M)                
+Animalia,Tringa melanoleuca,Tringa melanoleuca,Patas amarillas mayor,MIGRATORIA (M)                
+Animalia,Tringa flavipes,Tringa flavipes,Patas amarillas menor,MIGRATORIA (M)                
+Animalia,Calidris canutus,Calidris canutus,Playerito,MIGRATORIA (M)                
+Animalia,Calidris melanotos,Calidris melanotos,Playerito,MIGRATORIA (M)                
+Animalia,Calidris fuscicollis,Calidris fuscicollis,Playerito,MIGRATORIA (M)                
+Animalia,Calidris bairdii,Calidris bairdii,Playero de Baird,MIGRATORIA (M)                
+Animalia,Calidris minutilla,Calidris minutilla,Playerito,MIGRATORIA (M)                
+Animalia,Calidris alpina,Calidris alpina,Playero rojo,MIGRATORIA (M)                
+Animalia,Calidris pusilla,Calidris pusilla,Playerito,MIGRATORIA (M)                
+Animalia,Calidris mauri,Calidris mauri,Playerito,MIGRATORIA (M)                
+Animalia,Calidris alba,Calidris alba,Playerito,MIGRATORIA (M)                
+Animalia,Limnodromus griseus,Limnodromus griseus,Costurero pico corto,MIGRATORIA (M)                
+Animalia,Limnodromus scolopaceus,Limnodromus scolopaceus,Costurero,MIGRATORIA (M)                
+Animalia,Tryngites subruficollis,Tryngites subruficollis,Playero,MIGRATORIA (M)                
+Animalia,Limosa fedoa,Limosa fedoa,Playero,MIGRATORIA (M)                
+Animalia,Limosa haemastica,Limosa haemastica,Playero,PASAJERA(P)                   
+Animalia,Gallinago gallinago,Gallinago gallinago,Guineita grande,MIGRATORIA (M)                
+Animalia,Himantopus mexicanus,Himantopus mexicanus,Viuda,RESIDENTE PERMANENTE (RP)     
+Animalia,Phalaropus lobatus,Phalaropus lobatus,Playero,MIGRATORIA (M)                
+Animalia,Phalaropus tricolor,Phalaropus tricolor,Falaropo de Wilson,MIGRATORIA (M)                
+Animalia,Burhinus bistriatus,Burhinus bistriatus,Bcaro,RESIDENTE PERMANENTE (RP)     
+Animalia,Stercorarius pomarinus,Stercorarius pomarinus,Pgalo pomarino,PASAJERA(P)                   
+Animalia,Stercorarius parasiticus,Stercorarius parasiticus,Pgalo,PASAJERA(P)                   
+Animalia,Stercorarius longicaudus,Stercorarius longicaudus,Pgalo colilargo,PASAJERA(P)                   
+Animalia,Larus marinus,Larus marinus,Gaviota,MIGRATORIA (M)                
+Animalia,Larus fuscus,Larus fuscus,Gaviota,MIGRATORIA (M)                
+Animalia,Larus argentatus,Larus argentatus,Gaviota,MIGRATORIA (M)                
+Animalia,Larus delawarensis,Larus delawarensis,Gaviota,MIGRATORIA (M)                
+Animalia,Larus atricilla,Larus atricilla,Gaviota cabecinegra,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Larus pipixcan,Larus pipixcan,Gaviota,PASAJERA(P)                   
+Animalia,Larus philadelphia,Larus philadelphia,Gaviota,MIGRATORIA (M)                
+Animalia,Rissa tridactyla,Rissa tridactyla,Gaviota,MIGRATORIA (M)                
+Animalia,Gelochelidon,Gelochelidon,Gaviota pico corto,MIGRATORIA (M)                
+Animalia,Sterna forsteri,Sterna forsteri,Gaviota,MIGRATORIA (M)                
+Animalia,Sterna hirundo,Sterna hirundo,Gaviota,MIGRATORIA (M)                
+Animalia,Sterna dougallii,Sterna dougallii,Gaviota palometa,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Sterna caspia,Sterna caspia,Gaviota,MIGRATORIA (M)                
+Animalia,Sterna sandvicensis,Sterna sandvicensis,Gaviota pico agudo,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Thalasseus,Thalasseus,Gaviota real,RESIDENTE PERMANENTE (RP)     
+Animalia,Anous stolidus,Anous stolidus,Cervero.Bubi ,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Chlidonias niger,Chlidonias niger,Gaviota negra,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Columba livia,Columba livia,Paloma domestica,INTRODUCIDA (I)               
+Animalia,Zenaida aurita,Zenaida aurita,"Roln, Roln turco",RESIDENTE PERMANENTE (RP)     
+Animalia,Zenaida asiatica,Zenaida asiatica,Tortola aliblanca,RESIDENTE PERMANENTE (RP)     
+Animalia,Zenaida macroura,Zenaida macroura,"Tortola fifi, Tortola rabiche",RESIDENTE PERMANENTE (RP)     
+Animalia,Columbina passerina,Columbina passerina,Rolita,RESIDENTE PERMANENTE (RP)     
+Animalia,Geotrygon chrysia,Geotrygon chrysia,Perda,RESIDENTE PERMANENTE (RP)     
+Animalia,Geotrygon montana,Geotrygon montana,Perdiz colorada,RESIDENTE PERMANENTE (RP)     
+Animalia,Aratinga chloroptera,Aratinga chloroptera,Perico,ENDEMICA (E)                  
+Animalia,Aratinga nana,Aratinga nana,Perico amargo,INTRODUCIDA (I)               
+Animalia,Brotogeris versicolurus,Brotogeris versicolurus,Perico alas de canario,INTRODUCIDA (I)               
+Animalia,Amazona ventralis,Amazona ventralis,Cotorra,ENDEMICA (E)                  
+Animalia,Coccyzus minor,Coccyzus minor,Pjaro bobo menor,RESIDENTE PERMANENTE (RP)     
+Animalia,Coccyzus americanus,Coccyzus americanus,Bobo pico amarillo,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Coccyzus erythropthalmus,Coccyzus erythropthalmus,Pajaro bobo pico negro,MIGRATORIA (M)                
+Animalia,Crotophaga ani,Crotophaga ani,Judo,RESIDENTE PERMANENTE (RP)     
+Animalia,Tyto alba,Tyto alba,Lechuza comn,RESIDENTE PERMANENTE (RP)     
+Animalia,Asio flammeus,Asio flammeus,Lechuza de sabana,RESIDENTE PERMANENTE (RP)     
+Animalia,Athene cunicularia,Athene cunicularia,Cu-c,RESIDENTE PERMANENTE (RP)     
+Animalia,Chordeiles minor,Chordeiles minor,Querebebe de Norte America,MIGRATORIA (M)                
+Animalia,Chordeiles gundlachii,Chordeiles gundlachii,Querebeb,RESIDENTE PERMANENTE (RP)     
+Animalia,Cypseloides niger,Cypseloides niger,Vencejo negro,NO DEFINIDO                   
+Animalia,Chaetura pelagica,Chaetura pelagica,Vencejo espinoso,MIGRATORIA (M)                
+Animalia,Streptoprocne zonaris,Streptoprocne zonaris,Vencejo de collar,RESIDENTE PERMANENTE (RP)     
+Animalia,Tachornis phoenicobia,Tachornis phoenicobia,Vencejito palmar,RESIDENTE PERMANENTE (RP)     
+Animalia,Archilochus colubris,Archilochus colubris,Colibr de garganta roja,MIGRATORIA (M)                
+Animalia,Anthracothorax dominicus,Anthracothorax dominicus,Zumbador grande,RESIDENTE PERMANENTE (RP)     
+Animalia,Megaceryle alcyon,Megaceryle alcyon,Martin Pescador,MIGRATORIA (M)                
+Animalia,Sphyrapicus varius,Sphyrapicus varius,Carpintero migratorio,MIGRATORIA (M)                
+Animalia,Tyrannus dominicensis,Tyrannus dominicensis,Petigre,RESIDENTE PERMANENTE (RP)     
+Animalia,Tyrannus caudifasciatus,Tyrannus caudifasciatus,Manjuila,RESIDENTE PERMANENTE (RP)     
+Animalia,Tyrannus forficatus,Tyrannus forficatus,Cola de tijera,MIGRATORIA (M)                
+Animalia,Myiarchus crinitus,Myiarchus crinitus,Papamoscas,MIGRATORIA (M)                
+Animalia,Riparia riparia,Riparia riparia,Golondrina,MIGRATORIA (M)                
+Animalia,Tachycineta bicolor,Tachycineta bicolor,Golondrina,MIGRATORIA (M)                
+Animalia,Stelgidopteryx serripennis,Stelgidopteryx serripennis,Golondrina,MIGRATORIA (M)                
+Animalia,Hirundo rustica,Hirundo rustica,Golondrina,MIGRATORIA (M)                
+Animalia,Petrochelidon pyrrhonota,Petrochelidon pyrrhonota,Golondrina,MIGRATORIA (M)                
+Animalia,Petrochelidon fulva,Petrochelidon fulva,Golondrina de cueva,RESIDENTE PERMANENTE (RP)     
+Animalia,Progne subis,Progne subis,Golondrina grande,MIGRATORIA (M)                
+Animalia,Progne dominicensis,Progne dominicensis,Golondrina grande,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Bombycilla cedrorum,Bombycilla cedrorum,Ampelis americano,MIGRATORIA (M)                
+Animalia,Mimus polyglottos,Mimus polyglottos,Ruiseor,RESIDENTE PERMANENTE (RP)     
+Animalia,Dumetella carolinensis,Dumetella carolinensis,Zorzal gato,MIGRATORIA (M)                
+Animalia,Margarops fuscatus,Margarops fuscatus,Zorzal pardo,RESIDENTE PERMANENTE (RP)     
+Animalia,Mniotilta varia,Mniotilta varia,Pega palo,MIGRATORIA (M)                
+Animalia,Protonotaria citrea,Protonotaria citrea,Cigita  cabeza amarilla ,MIGRATORIA (M)                
+Animalia,Limnothlypis swainsonii,Limnothlypis swainsonii,Cigita,MIGRATORIA (M)                
+Animalia,Helmitheros vermivorus,Helmitheros vermivorus,Cigita cabeza rayada,MIGRATORIA (M)                
+Animalia,Vermivora chrysoptera,Vermivora chrysoptera,Cigita,MIGRATORIA (M)                
+Animalia,Vermivora pinus,Vermivora pinus,Cigita ala azul,MIGRATORIA (M)                
+Animalia,Vermivora peregrina,Vermivora peregrina,Cigita Tenesi,MIGRATORIA (M)                
+Animalia,Vermivora ruficapilla,Vermivora ruficapilla,Cigita,MIGRATORIA (M)                
+Animalia,Parula americana,Parula americana,Cigita parula,MIGRATORIA (M)                
+Animalia,Dendroica magnolia,Dendroica magnolia,Cigita magnolia,MIGRATORIA (M)                
+Animalia,Dendroica tigrina,Dendroica tigrina,Cigita tigrina,MIGRATORIA (M)                
+Animalia,Dendroica caerulescens,Dendroica caerulescens,Cigita azul,MIGRATORIA (M)                
+Animalia,Dendroica coronata,Dendroica coronata,Cigita  mirta ,MIGRATORIA (M)                
+Animalia,Dendroica virens,Dendroica virens,Cigita pecninegro,MIGRATORIA (M)                
+Animalia,Dendroica fusca,Dendroica fusca,Cigita del frio,MIGRATORIA (M)                
+Animalia,Dendroica dominica,Dendroica dominica,Cigita garganta amarilla,MIGRATORIA (M)                
+Animalia,Dendroica castanea,Dendroica castanea,Cigita,MIGRATORIA (M)                
+Animalia,Dendroica striata,Dendroica striata,Cigita casco prieto,PASAJERA(P)                   
+Animalia,Dendroica pinus,Setophaga (Dendroica) pinus,Cigita del pinar,"RES. PERM. / POB MIG (RP,M)   "
+Animalia,Dendroica kirtlandii,Dendroica kirtlandii,Cigita,MIGRATORIA (M)                
+Animalia,Dendroica discolor,Dendroica discolor,Cigita de los prados,MIGRATORIA (M)                
+Animalia,Dendroica palmarum,Dendroica palmarum,Cigita del palmar,MIGRATORIA (M)                
+Animalia,Seiurus aurocapillus,Seiurus aurocapillus,Cigita saltarina,MIGRATORIA (M)                
+Animalia,Seiurus noveboracensis,Seiurus noveboracensis,Cigita del agua,MIGRATORIA (M)                
+Animalia,Seiurus motacilla,Seiurus motacilla,Cigita del ro,MIGRATORIA (M)                
+Animalia,Oporornis formosus,Oporornis formosus,Cigita de Kentucki,MIGRATORIA (M)                
+Animalia,Oporornis agilis,Oporornis agilis,Cigita de lentes,MIGRATORIA (M)                
+Animalia,Oporornis philadelphia,Oporornis philadelphia,Cigita triste,MIGRATORIA (M)                
+Animalia,Geothlypis trichas,Geothlypis trichas,Cigita enmascarada,MIGRATORIA (M)                
+Animalia,Wilsonia citrina,Wilsonia citrina,Cigita gorra negra,MIGRATORIA (M)                
+Animalia,Wilsonia pusilla,Wilsonia pusilla,Cigita,MIGRATORIA (M)                
+Animalia,Wilsonia canadensis,Wilsonia canadensis,Cigita,MIGRATORIA (M)                
+Animalia,Setophaga ruticilla,Setophaga ruticilla,"Candelita, Bijirita",MIGRATORIA (M)                
+Animalia,Vireo griseus,Vireo griseus,Cigita,MIGRATORIA (M)                
+Animalia,Vireo flavifrons,Vireo flavifrons,Cigita,MIGRATORIA (M)                
+Animalia,Vireo altiloquus,Vireo altiloquus,Julian Chiv,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Vireo olivaceus,Vireo olivaceus,Vireo de ojos rojos,MIGRATORIA (M)                
+Animalia,Vireo gilvus,Vireo gilvus,Vireo cantor,MIGRATORIA (M)                
+Animalia,Vireo crassirostris,Vireo crassirostris,Vireo de Bahamas,MIGRATORIA (M)                
+Animalia,Dolichonyx oryzivorus,Dolichonyx oryzivorus,Tordo arrocero,MIGRATORIA (M)                
+Animalia,Agelaius humeralis,Agelaius humeralis,Mayito,RESIDENTE PERMANENTE (RP)     
+Animalia,Icterus spurius,Icterus spurius,Calandria caf,MIGRATORIA (M)                
+Animalia,Icterus galbula,Icterus galbula,Oropendola,MIGRATORIA (M)                
+Animalia,Icterus dominicensis,Icterus dominicensis,Cigua canaria,ENDEMICA (E)                  
+Animalia,Quiscalus niger,Quiscalus niger,Chinchiln,RESIDENTE PERMANENTE (RP)     
+Animalia,Molothrus bonariensis,Molothrus bonariensis,Pjaro vaquero,RESIDENTE PERMANENTE (RP)     
+Animalia,Pheucticus ludovicianus,Pheucticus ludovicianus,Degollado,MIGRATORIA (M)                
+Animalia,Passerina cyanea,Passerina cyanea,Azulejo,MIGRATORIA (M)                
+Animalia,Tiaris bicolor,Tiaris bicolor,Juana Maruca,RESIDENTE PERMANENTE (RP)     
+Animalia,Tiaris olivacea,Tiaris olivacea,Cigita de hierba,RESIDENTE PERMANENTE (RP)     
+Animalia,Passerculus sandwichensis,Passerculus sandwichensis,Gorrin sabanero comn,MIGRATORIA (M)                
+Animalia,Ammodramus savannarum,Ammodramus savannarum,Tumbarrocio,RESIDENTE PERMANENTE (RP)     
+Animalia,Melospiza lincolnii,Melospiza lincolnii,gorrin de Lincoln,MIGRATORIA (M)                
+Animalia,Melospiza melodia,Melospiza melodia,gorrin meldico,MIGRATORIA (M)                
+Animalia,Sicalis flaveola,Sicalis flaveola,Jilguero Azafanado,INTRODUCIDA (I)               
+Animalia,Amandava amandava,Amandava amandava,Bengal rojo,INTRODUCIDA (I)               
+Animalia,Lonchura malacca,Lonchura malacca,Monjita tricolor,INTRODUCIDA (I)               
+Animalia,Lonchura punctulata,Lonchura punctulata,Cigita pechijabao ,INTRODUCIDA (I)               
+Animalia,Passer domesticus,Passer domesticus,Gorrin domstico,INTRODUCIDA (I)               
+Animalia,Corvus leucognaphalus,Corvus leucognaphalus,Cuervo,ENDEMICA (E)                  
+Animalia,Turdus migratorius,Turdus migratorius,Petrojo americano,MIGRATORIA (M)                
+Animalia,Turdus plumbeus,Turdus plumbeus,Chua-chua,RESIDENTE PERMANENTE (RP)     
+Animalia,Hylocichla mustelina,Hylocichla mustelina,Zorzal ,MIGRATORIA (M)                
+Animalia,Catharus ustulatus,Catharus ustulatus,Zorzal migratorio,MIGRATORIA (M)                
+Animalia,Catharus fuscescens,Catharus fuscescens,Zorzal rojiso,MIGRATORIA (M)                
+Animalia,Polioptila caerulea,Polioptila caerulea,Monjita,MIGRATORIA (M)                
+Animalia,Regulus calendula,Regulus calendula,Reyezuelo rub,MIGRATORIA (M)                
+Animalia,Piranga olivacea,Piranga olivacea,Tanagra rojinegra,MIGRATORIA (M)                
+Animalia,Piranga rubra,Piranga rubra,Tanagra del paso,MIGRATORIA (M)                
+Animalia,Euphonia musica,Euphonia musica,Jilguerillo,RESIDENTE PERMANENTE (RP)     
+Animalia,Coereba flaveola,Coereba flaveola,Cigita comn,RESIDENTE PERMANENTE (RP)     
+Animalia,Noctilio leporinus,Noctilio leporinus,Murcielago Pescador,NO DEFINIDO                   
+Animalia,Equus asinus,Equus asinus,Burro,INTRODUCIDA (I)               
+Animalia,Equus caballus,Equus caballus,Caballo,NO DEFINIDO                   
+Animalia,Capra hircus,Capra hircus,Chivo,NO DEFINIDO                   
+Animalia,Felis catus,Felis catus,Gato,NO DEFINIDO                   
+Animalia,Bos taurus,Bos taurus,Vaca,INTRODUCIDA (I)               
+Animalia,Vanessa virginiensis,Vanessa virginiensis,Almirante,NO DEFINIDO                   
+Animalia,Calonectris diomedea,Calonectris diomedea,Pardela grande,PASAJERA(P)                   
+Animalia,Gymnophthalmus underwoodi,Gymnophthalmus underwoodi,Lagarto gusano de escamas lisas,INTRODUCIDA (I)               
+Animalia,Eleutherodactylus abbotti,Eleutherodactylus abbotti,Calcali,ENDEMICA (E)                  
+Animalia,Eleutherodactylus armstrongi,Eleutherodactylus armstrongi,Rana martillo de Bahoruco,ENDEMICA (E)                  
+Animalia,Eleutherodactylus audanti,Eleutherodactylus audanti,Rana telgrafo de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus bakeri,Eleutherodactylus bakeri,Rana de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus brevirostris,Eleutherodactylus brevirostris,Rana verde de hocico corto,ENDEMICA (E)                  
+Animalia,Eleutherodactylus counouspeus,Eleutherodactylus counouspeus,Rana amarilla caverncola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus flavescens,Eleutherodactylus flavescens,Rana amarilla de dedos hendidos,ENDEMICA (E)                  
+Animalia,Eleutherodactylus furcyensis,Eleutherodactylus furcyensis,Rana patas rojas de La Selle,ENDEMICA (E)                  
+Animalia,Eleutherodactylus glandulifer,Eleutherodactylus glandulifer,Rana con glndulas de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus glanduliferoides,Eleutherodactylus glanduliferoides,Rana de la hierba de la Selle,ENDEMICA (E)                  
+Animalia,Eleutherodactylus haitianus,Eleutherodactylus haitianus,Rana grillo de la montaa,ENDEMICA (E)                  
+Animalia,Eleutherodactylus hypostenor,Eleutherodactylus hypostenor,Rana excavadora de Bahoruco,ENDEMICA (E)                  
+Animalia,Eleutherodactylus inoptatus,Eleutherodactylus inoptatus,Rana gigante de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus jugans,Eleutherodactylus jugans,Rana marrn de La Selle,ENDEMICA (E)                  
+Animalia,Eleutherodactylus leoncei,Eleutherodactylus leoncei,Rana pastel del Sur,ENDEMICA (E)                  
+Animalia,Eleutherodactylus minutus,Eleutherodactylus minutus,Rana sollozante de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus montanus,Eleutherodactylus montanus,Rana de las montaas de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus oxyrhynchus,Eleutherodactylus oxyrhynchus,Rana de hocico afilado de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus parabates,Eleutherodactylus parabates,Rana silbadora de Neiba,ENDEMICA (E)                  
+Animalia,Eleutherodactylus patriciae,Eleutherodactylus patriciae,Rana de la Cordillera de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus paulsoni,Eleutherodactylus paulsoni,Rana de rabadilla rosada de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus pictissimus,Eleutherodactylus pictissimus,Rana de motas amarillas de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus pituinus,Eleutherodactylus pituinus,Rana melodiosa de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus poolei,Eleutherodactylus poolei,Rana citadina ,ENDEMICA (E)                  
+Animalia,Eleutherodactylus rufifemoralis,Eleutherodactylus rufifemoralis,Rana de patas rojas de Bahoruco,ENDEMICA (E)                  
+Animalia,Eleutherodactylus ruthae,Eleutherodactylus ruthae,Rana excavadora oriental,ENDEMICA (E)                  
+Animalia,Eleutherodactylus schmidti,Eleutherodactylus schmidti,Rana de los arroyos del norte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus semipalmatus,Eleutherodactylus semipalmatus,Rana de los arroyos de Tiburn ,ENDEMICA (E)                  
+Animalia,Eleutherodactylus ventrilineatus,Eleutherodactylus ventrilineatus,Rana oscura Macaya,ENDEMICA (E)                  
+Animalia,Eleutherodactylus weinlandi,Eleutherodactylus weinlandi,Rana de rabadilla roja de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus wetmorei,Eleutherodactylus wetmorei,Rana silbadora de Haiti,ENDEMICA (E)                  
+Animalia,Anolis chlorocyanus,Anolis chlorocyanus,Anolis verde del Norte,ENDEMICA (E)                  
+Animalia,Peltophryne guentheri,Peltophryne guentheri,Sapo crestado sureo,ENDEMICA (E)                  
+Animalia,Trachemys stejnegeri,Trachemys stejnegeri,Jicotea nortea,ENDEMICA (E)                  
+Animalia,Trachemys decorata,Trachemys decorata,Jicotea surea,ENDEMICA (E)                  
+Animalia,Nesoctites micromegas,Nesoctites micromegas,Carpintero de sierra,ENDEMICA (E)                  
+Animalia,Melanerpes striatus,Melanerpes striatus,Carpintero,ENDEMICA (E)                  
+Animalia,Ardea alba,Ardea alba,Garza real,RESIDENTE PERMANENTE (RP)     
+Animalia,Calidris himantopus,Calidris himantopus,Playerito pata larga,MIGRATORIA (M)                
+Animalia,Catharus bicknelli,Catharus bicknelli,Zorzal migratorio,MIGRATORIA (M)                
+Animalia,Contopus hispaniolensis,Contopus hispaniolensis,Maroita,ENDEMICA (E)                  
+Animalia,Nomonyx dominicus,Nomonyx dominicus,Pato criollo,RESIDENTE PERMANENTE (RP)     
+Animalia,Phalacrocorax brasilianus,Phalacrocorax brasilianus,Corua de mar ,PASAJERA(P)                   
+Animalia,Rynchops niger,Rynchops niger,Pico de tijera,MIGRATORIA (M)                
+Animalia,Priotelus roseigaster,Priotelus roseigaster,Papagayo,ENDEMICA (E)                  
+Animalia,Todus angustirostris,Todus angustirostris,Chi-cu,ENDEMICA (E)                  
+Animalia,Todus subulatus,Todus subulatus,Barrancol,ENDEMICA (E)                  
+Animalia,Hyetornis rufigularis,Hyetornis rufigularis,Ca,ENDEMICA (E)                  
+Animalia,Chlorostilbon swainsonii,Chlorostilbon swainsonii,Zumbador verde,ENDEMICA (E)                  
+Animalia,Mellisuga minima,Mellisuga minima,Zumbadorcito,RESIDENTE PERMANENTE (RP)     
+Animalia,Tyto glaucops,Tyto glaucops,Lechuza cara ceniza,ENDEMICA (E)                  
+Animalia,Asio stygius,Asio stygius,Lechuza orejita,RESIDENTE PERMANENTE (RP)     
+Animalia,Nyctibius jamaicensis,Nyctibius jamaicensis,"Don Juan grande, Bruja",RESIDENTE PERMANENTE (RP)     
+Animalia,Siphonorhis brewsteri,Siphonorhis brewsteri,Torico,ENDEMICA (E)                  
+Animalia,Calyptophilus frugivorus,Calyptophilus frugivorus,Patico chirr,ENDEMICA (E)                  
+Animalia,Calyptophilus tertius,Calyptophilus tertius,Chirr de Bahorucos,ENDEMICA (E)                  
+Animalia,Carduelis dominicensis,Carduelis dominicensis,Canario,ENDEMICA (E)                  
+Animalia,Corvus palmarum,Corvus palmarum,Cao,ENDEMICA (E)                  
+Animalia,Dulus dominicus,Dulus dominicus,Cigua palmera,ENDEMICA (E)                  
+Animalia,Elaenia fallax,Elaenia fallax,Maroita canosa,RESIDENTE PERMANENTE (RP)     
+Animalia,Loxia megaplaga,Loxia megaplaga,Pico cruzado,ENDEMICA (E)                  
+Animalia,Loxigilla violacea,Loxigilla violacea,Gallito prieto,RESIDENTE PERMANENTE (RP)     
+Animalia,Microligea palustris,Microligea palustris,Cigita cola verde,ENDEMICA (E)                  
+Animalia,Myadestes genibarbis,Myadestes genibarbis,Jilguero,RESIDENTE PERMANENTE (RP)     
+Animalia,Myiarchus stolidus,Myiarchus stolidus,Manuelito,RESIDENTE PERMANENTE (RP)     
+Animalia,Phaenicophilus palmarum,Phaenicophilus palmarum,Cuatro ojos,ENDEMICA (E)                  
+Animalia,Phaenicophilus poliocephalus,Phaenicophilus poliocephalus,Cuatro ojos cabeza gris,ENDEMICA (E)                  
+Animalia,Ploceus cucullatus,Ploceus cucullatus,"Madam sag, Chichiguao",INTRODUCIDA (I)               
+Animalia,Tachycineta euchrysea,Tachycineta euchrysea,Golondrina verde,ENDEMICA (E)                  
+Animalia,Turdus swalesi,Turdus swalesi,Zorzal de LaSelle,ENDEMICA (E)                  
+Animalia,Vireo nanus,Vireo nanus,Ciguita Juliana,ENDEMICA (E)                  
+Animalia,Xenoligea montana,Xenoligea montana,Cigita aliblanca,ENDEMICA (E)                  
+Animalia,Zonotrichia capensis,Zonotrichia capensis,Cigua de Constanza,RESIDENTE PERMANENTE (RP)     
+Animalia,Celestus costatus,Celestus costatus,Lucia lisa de la Hispaniola,ENDEMICA (E)                  
+Animalia,Ischnura capreolus,Ischnura capreolus,Caballito,NO DEFINIDO                   
+Animalia,Typhlops pusillus,Typhlops pusillus,Culebra ciega comn de La Hispaniola,NO DEFINIDO                   
+Animalia,Epicrates fordii,Epicrates fordii,Boa del desierto de la Hispaniola,ENDEMICA (E)                  
+Animalia,Epicrates gracilis,Epicrates gracilis,Boa esbelta de la Hispaniola,ENDEMICA (E)                  
+Animalia,Epicrates striatus,Epicrates striatus,Boa de la Hispaniola,NATIVA (N)                    
+Animalia,Tropidophis haetianus,Tropidophis haetianus,Trope de la Hispaniola,ENDEMICA (E)                  
+Animalia,Nandopsis haitiensis,Nandopsis haitiensis,"Cichlasoma, biajaca",NO DEFINIDO                   
+Animalia,Osteopilus dominicensis,Osteopilus dominicensis,Rana arborcola reidora de la Hispaniola,ENDEMICA (E)                  
+Animalia,Osteopilus pulchrilineatus,Osteopilus pulchrilineatus,Rana arborcola amarilla de la Hispaniola,ENDEMICA (E)                  
+Animalia,Osteopilus vastus,Osteopilus vastus,Rana arborcola gigante de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus alcoae,Eleutherodactylus alcoae,Rana de las rocas de Barahona,ENDEMICA (E)                  
+Animalia,Eleutherodactylus amadeus,Eleutherodactylus amadeus,Rana de Mozart,ENDEMICA (E)                  
+Animalia,Eleutherodactylus apostates,Eleutherodactylus apostates,Rana de patas grandes de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus auriculatoides,Eleutherodactylus auriculatoides,Rana martillo del Norte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus caribe,Eleutherodactylus caribe,Rana de los manglares,ENDEMICA (E)                  
+Animalia,Eleutherodactylus chlorophenax,Eleutherodactylus chlorophenax,Rana gigante de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus corona,Eleutherodactylus corona,Rana coronada de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus darlingtoni,Eleutherodactylus darlingtoni,Rana de patas largas de la Selle,ENDEMICA (E)                  
+Animalia,Eleutherodactylus dolomedes,Eleutherodactylus dolomedes,Rana ventrlocua de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus eunaster,Eleutherodactylus eunaster,Rana silvadora de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus fowleri,Eleutherodactylus fowleri,Rana khaki de las bromelias,ENDEMICA (E)                  
+Animalia,Eleutherodactylus glaphycompus,Eleutherodactylus glaphycompus,Rana con bolas,ENDEMICA (E)                  
+Animalia,Eleutherodactylus grahami,Eleutherodactylus grahami,Rana de chevrones amarillos,ENDEMICA (E)                  
+Animalia,Eleutherodactylus heminota,Eleutherodactylus heminota,Rana de media lnea de las bromelias,ENDEMICA (E)                  
+Animalia,Eleutherodactylus lamprotes,Eleutherodactylus lamprotes,Rana de patas naranjas de la Hispaniola,ENDEMICA (E)                  
+Animalia,Eleutherodactylus lucioi,Eleutherodactylus lucioi,Rana plida de la rocas,ENDEMICA (E)                  
+Animalia,Eleutherodactylus nortoni,Eleutherodactylus nortoni,Rana verde espinosa,ENDEMICA (E)                  
+Animalia,Eleutherodactylus parapelates,Eleutherodactylus parapelates,Rana excavadora Macaya,ENDEMICA (E)                  
+Animalia,Eleutherodactylus probolaeus,Eleutherodactylus probolaeus,Rana de Boca de Yuma,ENDEMICA (E)                  
+Animalia,Eleutherodactylus rhodesi,Eleutherodactylus rhodesi,Rana de Port-de-Paix,ENDEMICA (E)                  
+Animalia,Eleutherodactylus sciagraphus,Eleutherodactylus sciagraphus,Rana de patas rayadas de la Hotte,ENDEMICA (E)                  
+Animalia,Eleutherodactylus thorectes,Eleutherodactylus thorectes,Rana de pecho manchado Macaya,ENDEMICA (E)                  
+Animalia,Eleutherodactylus warreni,Eleutherodactylus warreni,Rana de Tortue,ENDEMICA (E)                  
+Animalia,Geotrygon leucometopia,Geotrygon leucometopia,Perdiz coquito blanco,ENDEMICA (E)                  
+Animalia,Patagioenas inornata,Patagioenas inornata,Paloma ceniza,RESIDENTE PERMANENTE (RP)     
+Animalia,Patagioenas leucocephala,Patagioenas leucocephala,Paloma coronita,RESIDENTE PERMANENTE (RP)     
+Animalia,Patagioenas squamosa,Patagioenas squamosa,Paloma turca ,RESIDENTE PERMANENTE (RP)     
+Animalia,Leiocephalus personatus,Leiocephalus personatus,Leiocefalo con mscara de la Hispaniola,ENDEMICA (E)                  
+Animalia,Tropidophis bucculentus,Tropidophis bucculentus,Trope de Navassa,ENDEMICA (E)                  
+Animalia,Celestus badius,Celestus badius,Lucia de Navassa,ENDEMICA (E)                  
+Animalia,Hypsirhynchus ferox,Hypsirhynchus ferox,Corredora hocico de cerdo comn,ENDEMICA (E)                  
+Animalia,Ialtris agyrtes,Ialtris agyrtes,Corredora del desierto del sur,ENDEMICA (E)                  
+Animalia,Ialtris dorsalis,Ialtris dorsalis,Corredora cabeza W,ENDEMICA (E)                  
+Animalia,Ialtris parishi,Ialtris parishi,Corredora con bandas de Tiburn,ENDEMICA (E)                  
+Animalia,Uromacer catesbyi,Uromacer catesbyi,Culebra arborcola verde cabeza roma,ENDEMICA (E)                  
+Animalia,Uromacer frenatus,Uromacer frenatus,Culebra de las vias de hocico pronunciado,ENDEMICA (E)                  
+Animalia,Pyrgus oileus,Pyrgus oileus,Saltarn tropical,NO DEFINIDO                   
+Animalia,Porphyrio martinica,Porphyrio martinica,Gallareta pico azul,RESIDENTE PERMANENTE (RP)     
+Animalia,Gallinago delicata,Gallinago delicata,Becacina,MIGRATORIA (M)                
+Animalia,Spindalis dominicensis,Spindalis dominicensis,Cigua amarilla,ENDEMICA (E)                  
+Animalia,Passerina caerulea,Passerina caerulea,Azulejn,MIGRATORIA (M)                
+Animalia,Seiurus aurocapilla,Seiurus aurocapilla,Ciguita saltarina,NO DEFINIDO                   
+Animalia,Peltophryne fluviatica,Peltophryne fluviatica,Sapo sin crestas de la Hispaniola,ENDEMICA (E)                  
+Animalia,Peltophryne fracta,Peltophryne fracta,Sapo crestado oriental,ENDEMICA (E)                  
+Animalia,Rhinella marina,Rhinella marina,Maco pempen,INTRODUCIDA (I)               
+Animalia,Eleutherodactylus aporostegus,Eleutherodactylus aporostegus,Rana excavadora de Tiburn ,ENDEMICA (E)                  
+Animalia,Eleutherodactylus bothroboans,Eleutherodactylus bothroboans,Rana excavadora de Jarabacoa,ENDEMICA (E)                  
+Animalia,Eleutherodactylus diplasius,Eleutherodactylus diplasius,Rana silvadora estampada,ENDEMICA (E)                  
+Animalia,Eleutherodactylus limbensis,Eleutherodactylus limbensis,Rana de la ladera de arroyos Haitiana,ENDEMICA (E)                  
+Animalia,Eleutherodactylus notidodes,Eleutherodactylus notidodes,Rana telgrafo de Neiba,ENDEMICA (E)                  
+Animalia,Eleutherodactylus paralius,Eleutherodactylus paralius,Rana de grupas rojas costera,ENDEMICA (E)                  
+Animalia,Eleutherodactylus rucillensis,Eleutherodactylus rucillensis,Rana de los arroyos de la Rucilla,ENDEMICA (E)                  
+Animalia,Eleutherodactylus sommeri,Eleutherodactylus sommeri,Rana silbadora del Massif du Nord,ENDEMICA (E)                  
+Animalia,Eleutherodactylus tychathrous,Eleutherodactylus tychathrous,Rana excavadora de Vallejuelo,ENDEMICA (E)                  
+Animalia,Hypsiboas heilprini,Hypsiboas heilprini,Rana arborcola verde de la Hispaniola,ENDEMICA (E)                  
+Animalia,Battus polydamas,Battus polydamas,Cola de gol. bolo,NO DEFINIDO                   
+Animalia,Phoebis sennae,Phoebis sennae,Azufre inmaculada,NO DEFINIDO                   
+Animalia,Phoebis agarithe,Phoebis agarithe,Azufre anaranjada,NO DEFINIDO                   
+Animalia,Cyclargus ammon,Cyclargus ammon,Azul  ammon,NO DEFINIDO                   
+Animalia,Lycorea halia,Lycorea halia cleobaea,Tigre mayor,NO DEFINIDO                   
+Animalia,Agraulis vanillae,Agraulis vanillae,Volatinera del golfo,NO DEFINIDO                   
+Animalia,Dryas iulia,Dryas iulia,Flama,NO DEFINIDO                   
+Animalia,Heliconius charithonia,Heliconius charithonia,Zebra,NO DEFINIDO                   
+Animalia,Euptoieta hegesia,Euptoieta hegesia,Volatinera,NO DEFINIDO                   
+Animalia,Hamadryas amphichloe,Hamadryas amphichloe,Mrmol haitiano,NO DEFINIDO                   
+Animalia,Anartia jatrophae,Anartia jatrophae,Pavn blanco,NO DEFINIDO                   
+Animalia,Siproeta stelenes,Siproeta stelenes,Malaquita,NO DEFINIDO                   
+Animalia,Aristelliger expectatus,Aristelliger expectatus,Gecko de desierto de la Hispaniola,ENDEMICA (E)                  
+Animalia,Aristelliger lar,Aristelliger lar,Gecko gigante de la Hispaniola,ENDEMICA (E)                  
+Animalia,Hemidactylus angulatus,Hemidactylus angulatus,Gecko casero de Africa,NO DEFINIDO                   
+Animalia,Hemidactylus haitianus,Hemidactylus haitianus,Gecko casero de frica Occidental,INTRODUCIDA (I)               
+Animalia,Phyllodactylus hispaniolae,Phyllodactylus hispaniolae,Gecko dedo de hoja dominicano,ENDEMICA (E)                  
+Animalia,Phyllodactylus sommeri,Phyllodactylus sommeri,Gecko dedo de hojas Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus altavelensis,Sphaerodactylus altavelensis,Esferodactilo de Alto Velo,ENDEMICA (E)                  
+Animalia,Sphaerodactylus ariasae,Sphaerodactylus ariasae,Esferodactilo de Jaragua,ENDEMICA (E)                  
+Animalia,Sphaerodactylus armstrongi,Sphaerodactylus armstrongi,Esferodactilo de bosque del sur,ENDEMICA (E)                  
+Animalia,Sphaerodactylus asterulus,Sphaerodactylus asterulus,Esferodactilo con puntos Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus callocricus,Sphaerodactylus callocricus,Esferodactilo de bandas estrechas,ENDEMICA (E)                  
+Animalia,Sphaerodactylus cinereus,Sphaerodactylus cinereus,Esferodactilo de bandas anchas Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus clenchi,Sphaerodactylus clenchi,Esferodactilo de manchas amarillas,ENDEMICA (E)                  
+Animalia,Sphaerodactylus copei,Sphaerodactylus copei,Esferodactilo  de escamas grandes Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus cryphius,Sphaerodactylus cryphius,Esferodactilo pigmeo del desierto,ENDEMICA (E)                  
+Animalia,Sphaerodactylus darlingtoni,Sphaerodactylus darlingtoni,Esferodactilo de bosque del Norte,ENDEMICA (E)                  
+Animalia,Sphaerodactylus difficilis,Sphaerodactylus difficilis,Esferodactilo con ocelos de la Hispaniola,ENDEMICA (E)                  
+Animalia,Sphaerodactylus elasmorhynchus,Sphaerodactylus elasmorhynchus,Esferodactilo hocico de escudo,ENDEMICA (E)                  
+Animalia,Sphaerodactylus epiurus,Sphaerodactylus epiurus,Esferodactilo con manchas en la cola  Hisp.,ENDEMICA (E)                  
+Animalia,Sphaerodactylus ladae,Sphaerodactylus ladae,Esferodactilo de los agaves manchado,ENDEMICA (E)                  
+Animalia,Sphaerodactylus lazelli,Sphaerodactylus lazelli,Esferodactilo de Cabo Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus leucaster,Sphaerodactylus leucaster,Esferodactilo de raya roja,ENDEMICA (E)                  
+Animalia,Sphaerodactylus nycteropus,Sphaerodactylus nycteropus,Esferodactilo cabeza aplanada de Hait,ENDEMICA (E)                  
+Animalia,Sphaerodactylus ocoae,Sphaerodactylus ocoae,Esferodactilo de Ocoa,ENDEMICA (E)                  
+Animalia,Sphaerodactylus omoglaux,Sphaerodactylus omoglaux,Esferodactilo de la Frontera Haitiano,ENDEMICA (E)                  
+Animalia,Sphaerodactylus perissodactylius,Sphaerodactylus perissodactylius,Esferodactilo de Martn Garca,ENDEMICA (E)                  
+Animalia,Sphaerodactylus plummeri,Sphaerodactylus plummeri,Esferodactilo  escamas grandes Barahona,ENDEMICA (E)                  
+Animalia,Sphaerodactylus randi,Sphaerodactylus randi,Esferodactilo pecoso de Barahona,ENDEMICA (E)                  
+Animalia,Sphaerodactylus rhabdotus,Sphaerodactylus rhabdotus,Esferodactilo de dos rayas de la Hispaniola,ENDEMICA (E)                  
+Animalia,Sphaerodactylus samanensis,Sphaerodactylus samanensis,Esferodactilo con bandas de los Haitises,ENDEMICA (E)                  
+Animalia,Sphaerodactylus savagei,Sphaerodactylus savagei,Esferodactilo pecoso de Villa Altagracia,ENDEMICA (E)                  
+Animalia,Sphaerodactylus schuberti,Sphaerodactylus schuberti,Esferodactilo de agave de Neiba,ENDEMICA (E)                  
+Animalia,Sphaerodactylus shrevei,Sphaerodactylus shrevei,Esferodactilo manchado del Noroeste  Hait,ENDEMICA (E)                  
+Animalia,Sphaerodactylus sommeri,Sphaerodactylus sommeri,Esferodactilo con bandas de Noroeste Hait,ENDEMICA (E)                  
+Animalia,Sphaerodactylus streptophorus,Sphaerodactylus streptophorus,Esferodactilo de odo pequeo  Hispaniola,ENDEMICA (E)                  
+Animalia,Sphaerodactylus williamsi,Sphaerodactylus williamsi,Esferodactilo rayado de Hait,ENDEMICA (E)                  
+Animalia,Sphaerodactylus zygaena,Sphaerodactylus zygaena,Esferodactilo de las costas de Tiburn,ENDEMICA (E)                  
+Animalia,Onychoprion,Onychoprion,Gaviota monja,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Sternula,Sternula,Gaviotica,RESIDENTE PERMANENTE (RP)     
+Animalia,Charadrius nivosus,Charadrius nivosus,Playero corredor,RESIDENTE PERMANENTE (RP)     
+Animalia,Thalasseus maximus,Thalasseus maximus,Charran Real,NO DEFINIDO                   
+Animalia,Tringa semipalmata,Tringa semipalmata,Chorlo,MIGRATORIO NIDIFICANTE (MN)   
+Animalia,Phormictopus cancerides,Phormictopus cancerides,Cacta,NO DEFINIDO                   
+Animalia,Peucetia viridans,Peucetia viridans,Araa verde,NO DEFINIDO                   
+Animalia, ,Coccyzus longirostris,Pjaro bobo,ENDEMICA (E)                  
+Animalia, ,Eleutherodactylus melatriginum,Rana telgrafo de la Cordillera Central,ENDEMICA (E)                  
+Animalia, ,Lithobates catesbianus,Rana toro,INTRODUCIDA (I)               
+Animalia, ,Oreochromis sp.,Tilapia,NO DEFINIDO                   
+Animalia, ,Cyclura ricordi,Iguana ricordii,ENDEMICA (E)                  
+Animalia, ,Ameiva lineolata,Ameiva pigmea,NO DEFINIDO                   
+Animalia, ,Leiocephalus sp.,,NO DEFINIDO                   
+Animalia, ,Sphaerodactylus sp.,Esferodactilo,ENDEMICA (E)                  
+Animalia, ,Celestus sp.,,NO DEFINIDO                   
+Animalia, ,Anolis semilineatus,Anolis de la hierba de la Hispaniola,ENDEMICA (E)                  
+Animalia, ,Calisto confusa,Calisto,NO DEFINIDO                   
+Animalia, ,Heraclides machaonidae,Cola de gol. gigante,NO DEFINIDO                   
+Animalia, ,Pyrrhocalles antiqua,Saltarn rojizo,NO DEFINIDO                   
+Animalia, ,Wallengrenia otho druryi,Saltarn de la caa,NO DEFINIDO                   
+Animalia, ,Burca hispaniolae,Saltarn de Hispaniola,NO DEFINIDO                   
+Animalia, ,Ephyriades zephodes,Saltarn crepsculo,NO DEFINIDO                   
+Animalia, ,Strymon columella,Rabicorta,NO DEFINIDO                   
+Animalia, ,Heraclides androgeus,Cola de gol. macan,NO DEFINIDO                   
+Animalia, ,Anolis christophei,Anolis del tronco de abanico grande,ENDEMICA (E)                  
+Animalia, ,Mabuya lineolata,Escinco rayado de la Hispaniola,ENDEMICA (E)                  
+Animalia, ,Leiocephalus semilineatus,,NO DEFINIDO                   
+Animalia, ,Hemidactylus sp.,,NO DEFINIDO                   
+Animalia, ,Celestus stenurus,,NO DEFINIDO                   
+Animalia, ,Celestus sepsoides,,NO DEFINIDO                   
+Animalia, ,Celestus anelpistus,,NO DEFINIDO                   
+Animalia, ,Anolis shrevei,,NO DEFINIDO                   
+Animalia, ,Anolis marcanoi,,NO DEFINIDO                   
+Animalia, ,Anolis insolitus,,NO DEFINIDO                   
+Animalia, ,Anolis etheridgei,,NO DEFINIDO                   
+Animalia, ,Anolis brevirostris,,NO DEFINIDO                   
+Animalia, ,Membracidae,Membracido,NO DEFINIDO                   
+Animalia, ,Fulgoridae,Salta hojas,NO DEFINIDO                   
+Animalia, ,Chrysopa domingensis,Crisopa,NO DEFINIDO                   
+Animalia, ,Lampyridae,Luciernaga,NO DEFINIDO                   
+Animalia, ,Tenebrionidae,Escarabajo,NO DEFINIDO                   
+Animalia, ,Scarabaeidae,Escarabajo,NO DEFINIDO                   
+Animalia, ,Cerambycidae,Cuernos largos,NO DEFINIDO                   
+Animalia, ,Celestus marcanoi,Lucia del Pico Duarte,NO DEFINIDO                   
+Animalia, ,Amphisbaena hyporissor,Anfisbena de barahona,NO DEFINIDO                   
+Animalia, ,Polistes sp.,Avispa,NO DEFINIDO                   
+Animalia, ,Pepis sp.,Mata cacata,NO DEFINIDO                   
+Animalia, ,Apis mellifera,Abeja,NO DEFINIDO                   
+Animalia, ,Xylocopa mordax,Abejorro,NO DEFINIDO                   
+Animalia, ,Crabronidae sp.,Avispa,NO DEFINIDO                   
+Animalia, ,Formicidae sp.,Hormiga,NO DEFINIDO                   
+Animalia, ,Sphecidae sp.,Avispa,NO DEFINIDO                   
+Animalia, ,Halictidae sp.,Avispa,NO DEFINIDO                   
+Animalia, ,Ctenidae sp.,Araa,NO DEFINIDO                   
+Animalia, ,Gasteracantha cacriformis,Araa,NO DEFINIDO                   
+Animalia, ,Salticidae sp.,Araa,NO DEFINIDO                   
+Animalia, ,Pholcidae sp.,Araa,NO DEFINIDO                   
+Animalia, ,Selenopidae sp.,Araa,NO DEFINIDO                   
+Animalia, ,Thelyphonidae sp.,Vinagrillo,NO DEFINIDO                   
+Animalia, ,Callinectes sp.,Jaiba,NO DEFINIDO                   
+Animalia, ,Uca sp.,Violinista,NO DEFINIDO                   
+Animalia, ,Scolopendridae sp.,Cien pies,NO DEFINIDO                   
+Animalia, ,Amblytropidia sp.,Esperanza,NO DEFINIDO                   
+Animalia, ,Drosophilidae sp.,Mosca,NO DEFINIDO                   
+Animalia, ,ASILIDAE SP.,MOSCA CAZADORA,NO DEFINIDO                   
+Animalia, ,TACHINIDAE SP.,MOSCA,NO DEFINIDO                   
+Animalia, ,MICROPEZIDAE SP.,MOSCA,NO DEFINIDO                   
+Animalia, ,DILOCHOPODIDAE SP.,MOSCA,NO DEFINIDO                   
+Animalia, ,Tachornis phoenicobia,Vencejo de palmar,NO DEFINIDO                   
+Animalia, ,Ameiva chrysolaema,Ameiva gigante de la Hispaniola,NO DEFINIDO                   
+Animalia, ,Uromacer sp.,Culebra verde,NO DEFINIDO                   
+Animalia, ,Hypsirhynchus parvifrons,Corredora menor de La Hispaniola,NO DEFINIDO                   
+Animalia, ,Anolis baleatus,Anolis gigante dominicano,NO DEFINIDO                   
+Animalia, ,Dulus dominicus 2,Cigua Palmera 2,NO DEFINIDO                   
+Animalia, ,Orphulella punctata,Saltamontes,NO DEFINIDO                   
+Animalia, ,Libellulidae sp.,Libelula,NO DEFINIDO                   
+Animalia, ,Gomphidae sp.,Libelula,NO DEFINIDO                   
+Animalia, ,Gryllidae sp.,Grillo,NO DEFINIDO                   
+Animalia, ,Conocephalus sp.,Esperanza,NO DEFINIDO                   
+Animalia, ,Callimantis antillarum,Mantis,NO DEFINIDO                   
+Animalia, ,Epilampra haitensis,Cucaracha,NO DEFINIDO                   
+Animalia, ,Blattellidae sp.,Cucaracha,NO DEFINIDO                   
+Animalia, ,Blattidae sp.,Cucaracha,NO DEFINIDO                   
+Animalia, ,Reduviidae sp.,Chinche,NO DEFINIDO                   
+Animalia, ,Pyrrochoridae sp.,Chinche,NO DEFINIDO                   
+Animalia, ,Coreidae sp.,Chinche,NO DEFINIDO                   
+Animalia, ,Pentatomidae sp.,Hiede vivo,NO DEFINIDO                   
+Animalia, ,Reduviidae sp.,Chinche,NO DEFINIDO                   
+Animalia, ,Cicadidae sp.,Chicharra,NO DEFINIDO                   
+Animalia, ,Phyllophaga sp.,Catarrn,NO DEFINIDO                   
+Animalia, ,Geotrupes sp.,Pelotero,NO DEFINIDO                   
+Animalia, ,Chrysomelidae sp.,Mariquita,NO DEFINIDO                   
+Animalia, ,Carabidae sp.,Escarabajo,NO DEFINIDO                   
+Animalia, ,Conoderus sp.,Cocuyo,NO DEFINIDO                   
+Animalia, ,Curculionidae sp.,Gorgojo,NO DEFINIDO                   
+Animalia, ,Anolis aliniger,,NO DEFINIDO                   
+Animalia, ,Amphisbaena manni,,NO DEFINIDO                   
+Animalia, ,Ameiva taeniura,,NO DEFINIDO                   
+Animalia, ,Anolis fowleri,,NO DEFINIDO                   
+Animalia, ,Papilio demoleus,Mariposa de los ctricos,NO DEFINIDO                   
+Animalia, ,Parkesia noveboracensis,Cigita del Agua,NO DEFINIDO                   
+Animalia, ,Setophaga caerulescens,Cigita Azul Garganta Negra,NO DEFINIDO                   
+Animalia, ,Setophaga petechia albicollis,Canario del Manglar,NO DEFINIDO                   
+Animalia, ,Setophaga tigrina,Ciguita Tigrina,NO DEFINIDO                   
+Animalia, ,Peltophryne,Sapo,NO DEFINIDO                   
+Animalia, ,Calisto obscura,Calisto,NO DEFINIDO                   
+Animalia, ,Siderone galanthis,Emperador,NO DEFINIDO                   
+Animalia, ,Achlyodes mithridates,Saltarn,NO DEFINIDO                   
+Animalia, ,Apis mellifera,Abeja,NO DEFINIDO                   
+Animalia, ,Pomacea glauca,,NO DEFINIDO                   
+Animalia, ,Anolis olssoni,Lagarto,NO DEFINIDO                   
+Animalia, ,Rhammatocerus cyanipes,Saltamontes,NO DEFINIDO                   
+Animalia, ,Gryllus,Grillo,NO DEFINIDO                   
+Animalia, ,Neoconocephalus,Esperanza,NO DEFINIDO                   
+Animalia, ,Peripatus,Peripatus,NO DEFINIDO                   
+Animalia, ,Spirobolellus sp.,Mil pies,NO DEFINIDO                   
+Animalia, ,Helicina gabbi,Babosa,NO DEFINIDO                   
+Animalia, ,Neoscona,Araa,NO DEFINIDO                   
+Animalia, ,Noctuidae,Polilla,NO DEFINIDO                   
+Animalia, ,Sphingidae,Polilla,NO DEFINIDO                   
+Animalia, ,Tabanidae,Mosca,NO DEFINIDO                   
+Animalia, ,Tipulidae,Mosca,NO DEFINIDO                   
+Animalia, ,Megachilidae,Abeja,NO DEFINIDO                   
+Animalia, ,Mutillidae,Hormiga,NO DEFINIDO                   
+Animalia, ,Cicadellidae,Salta hojas,NO DEFINIDO                   
